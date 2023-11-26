@@ -2,3 +2,4 @@ TgCrypto
 wget
 pillow
 hachoir
+pyrogram
